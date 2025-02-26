@@ -17,6 +17,6 @@ $route->get("/notifications", [NotificationsController::class, 'index']);
 $route->get("/tables", [TableController::class, 'index']);
 
 
-$route->get("/icons/icon", [IconsController::class, 'icon']);
+$route->get("/icons", [IconsController::class, 'icon']);
 
 $route->route();
