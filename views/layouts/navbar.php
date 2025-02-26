@@ -48,7 +48,7 @@
             </a>
           </li>
           <li>
-            <a href="./notifications.html">
+            <a href="/notifications">
               <i class="tim-icons icon-bell-55"></i>
               <p>Notifications</p>
             </a>
@@ -60,7 +60,7 @@
             </a>
           </li>
           <li>
-            <a href="./tables.html">
+            <a href="/tables">
               <i class="tim-icons icon-puzzle-10"></i>
               <p>Table List</p>
             </a>
