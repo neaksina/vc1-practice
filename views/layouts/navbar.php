@@ -48,7 +48,7 @@
             </a>
           </li>
           <li>
-            <a href="./notifications.html">
+            <a href="/notifications">
               <i class="tim-icons icon-bell-55"></i>
               <p>Notifications</p>
             </a>
