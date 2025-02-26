@@ -36,7 +36,7 @@
             </a>
           </li>
           <li>
-            <a href="./icons.html">
+            <a href="/icons/icon">
               <i class="tim-icons icon-atom"></i>
               <p>Icons</p>
             </a>
