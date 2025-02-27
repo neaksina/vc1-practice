@@ -7,6 +7,8 @@ require_once "Controllers/IconsController.php";
 require_once "Controllers/NfController.php";
 require_once "Controllers/TableController.php";
 require_once "Controllers/UserController.php";
+require_once "Controllers/UserController.php";
+require_once "Controllers/Dashboad.php";
 
 
 $route = new Router();
@@ -15,7 +17,9 @@ $route->get("/notifications", [NotificationsController::class, 'index']);
 
 // table list 
 
+$route->get("/tables", [TableController::class, 'index']);
 $route->get("/users", [UserController::class, 'index']);
+$route->get("/dashboads", [Dashboad::class, 'index']);
 
 
 $route->get("/icons", [IconsController::class, 'icon']);
