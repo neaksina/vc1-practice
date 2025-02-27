@@ -54,13 +54,13 @@
             </a>
           </li>
           <li>
-            <a href="./user.html">
+            <a href="/users">
               <i class="tim-icons icon-single-02"></i>
               <p>User Profile</p>
             </a>
           </li>
           <li>
-            <a href="./tables.html">
+            <a href="/tables">
               <i class="tim-icons icon-puzzle-10"></i>
               <p>Table List</p>
             </a>
