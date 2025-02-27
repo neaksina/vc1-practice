@@ -30,7 +30,7 @@
         </div>
         <ul class="nav">
           <li class="active ">
-            <a href="/dashboads">
+            <a href="/">
               <i class="tim-icons icon-chart-pie-36"></i>
               <p>Dashboard</p>
             </a>
